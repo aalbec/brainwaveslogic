@@ -67,7 +67,7 @@ For testing, you can use public EEG datasets like:
 
 ## Folder Structure
 
-```
+```txt
 brainwaveslogic/
 │
 ├── data/                # EEG datasets or preprocessed data
